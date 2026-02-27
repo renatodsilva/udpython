@@ -1,6 +1,5 @@
 """
 DocString
-
 """
 
 #Escreve um comentário
