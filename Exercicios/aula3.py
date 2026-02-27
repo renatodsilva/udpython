@@ -10,5 +10,4 @@ print(2,'"python"')
 print("python")
 
 #Escape
-#(pula o próximo caractere)
 print('python\'teste\'')
