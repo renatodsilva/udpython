@@ -1,8 +1,6 @@
 """
 DocString
 
-Escrever
-coisas
 """
 
 #Escreve um comentário
