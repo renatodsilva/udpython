@@ -8,3 +8,4 @@ elif entrada=='sair':
     print('Você saiu do sistema')
 else:
     print('Você não entrou e nem saiu.')
+    
